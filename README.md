@@ -1,2 +1,10 @@
 # TAREA7
-Programa de comparación de números
+Computadoras-Y-Programacion
+
+Nombre: Luis Gerardo Jaimes Santa Ana
+
+Usuario: luisjaimessa
+
+Correo: geraa.9718@gmail.com
+
+Asignatura: Computadoras y Programacion
